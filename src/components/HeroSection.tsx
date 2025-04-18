@@ -25,7 +25,7 @@ function HeroSection() {
         </h1>
         <p className="mt-4 text-base md:text-lg font-normal text-neutral-300 max-w-xl mx-auto">
           Dive into our comprehensive music courses and transform your musical journey today.
-          Whether you're a beginner or looking to refine your skills, we have something for everyone.
+          Whether you are a beginner or looking to refine your skills, we have something for everyone.
         </p>
         <div className="mt-6">
           {/* Optional Button or CTA */}
